@@ -76,7 +76,9 @@ This course runs for 10 weeks. Our tentative schedule is
 9. **Nov 26: ** Pop science
 10. **Dec 3/5:** Succeeding in the academy, course debrief
 
+## Academic Integrity
 
+We will abide closely with the [UCR Academic Integrity Policies](https://conduct.ucr.edu/policies/academic-integrity-policies-and-procedures). Plagiarism will be penalized harshly. I encourage you to work with one another and to use many sources. You are expected to cite all sources used. Please contact the instructor if there is any ambiguity about this.
 
 ## Inclusive Accommodation, Support
 
